@@ -1,0 +1,31 @@
+@media (max-width: 930px) {
+    .client-change-container {
+        min-width: 85px;
+        width: 85px;
+    }
+}
+@media (max-width: 750px) {
+    .main {
+        overflow: scroll;
+    }
+    .header {
+        justify-content: center;
+        padding-top: 8px;
+        padding-bottom: 8px;
+    }
+    .logo {
+        width: 24px;
+        height: 24px;
+    }
+    .search {
+        display: none;
+    }
+    .btn-add-container {
+        padding-bottom: 30px;
+        padding-top: 20px;
+    }
+    .modal-window {
+        top: 103px;
+        width: 300px;
+    }
+}
